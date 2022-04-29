@@ -50,8 +50,7 @@ coverage
 
 # Compiled sanity studio
 dist
-studio
-lib
+
 
 # other
 yarn.lock
