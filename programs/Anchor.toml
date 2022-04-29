@@ -1,13 +1,13 @@
 [features]
 seeds = false
-[programs.localnet]
-programs = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+programs = "CYEVGYNRRnQwgvELRP9ig2kPqX6RjFHApfWv1vymnzrW"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/maverick_coder/.config/solana/id.json"
 
 [scripts]
