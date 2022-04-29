@@ -31,7 +31,7 @@ const RightSidebar = ({ getUsers, users }) => {
           <div className={style.adImageContainer}>
             <Image
               src={
-                'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/HpzVcovxQz28Br7GkRyq_15289248_269068140162594_1580546814749307408_o_1_.png'
+                'https://i.pinimg.com/564x/50/9a/61/509a613c0d267d9a3b8c3a5233068150.jpg'
               }
               height={100}
               width={100}
@@ -41,8 +41,8 @@ const RightSidebar = ({ getUsers, users }) => {
             ˚
           </div>
           <div>
-            <div>The #1 Channel for Blockchain Development</div>
-            <div className={style.adLink}>cleverprogrammer.com</div>
+            <div>I'm available for hire. Visit my portfolio below!</div>
+            <div className={style.adLink}><a href="https://github.com/Anish-Mukherjee">https://github.com/Anish-Mukherjee</a></div>
           </div>
         </div>
         <div className={style.ad}>

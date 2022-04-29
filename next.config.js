@@ -8,7 +8,7 @@ const nextConfig = {
       'upload.wikimedia.org',
       'www.dmarge.com',
       'cdn-icons.flaticon.com',
-      'kajabi-storefronts-production.kajabi-cdn.com',
+      'i.pinimg.com',
       'www.cityam.com',
       'yt3.ggpht.com',
       'media-exp1.licdn.com',
